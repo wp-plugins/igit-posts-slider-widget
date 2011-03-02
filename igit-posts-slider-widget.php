@@ -2,7 +2,7 @@
  * Plugin Name: IGIT Posts Slider Widget
  * Plugin URI: http://www.hackingethics.com/blog/wordpress-plugins/igit-posts-slider-widget/
  * Description: A widget slider that embed posts into your sidebar category, tags. Also you can show latest posts,old posts and posts by any order you want in this slider wherver your theme supoorts widgets.
- * Version: 1.0
+ * Version: 1.1
  * Author: Ankur Gandhi
  * Author URI: http://www.hackingethics.com/
  *
