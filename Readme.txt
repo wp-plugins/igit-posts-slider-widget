@@ -16,6 +16,12 @@ Stable tag: 1.1
 [Hire Me](http://www.hackingethics.com/blog/contact-me/)
 <br />
 <br />
+My Other Plugins :
+[IGIT Related Posts Widget](http://www.hackingethics.com/blog/wordpress-plugins/igit-related-posts-widget/) |  
+[IGIT Related Posts With Thumb Image After Posts](http://wordpress.org/extend/plugins/igit-related-posts-with-thumb-images-after-posts/) | 
+[IGIT Follow Me Button](http://www.hackingethics.com/blog/wordpress-plugins/igit-follow-me-after-post-button-new/) |  
+[IGIT Twitter Tweet Button](http://www.hackingethics.com/blog/wordpress-plugins/igit-new-twitter-tweet-share-button-with-counter-wordpress-plugin/) 
+
 - The IGIT Posts Slider Widget Plugin allows you to embed posts into your sidebar category, tags. Also you can show latest posts,old posts and posts by any order you want in this slider wherver your theme supoorts widgets.<br />
 - This plugin also empowers the Blog administrator to place manually related posts widget, Also having options to show posts by category, tags.  Also options to sort post by author,category,content,date,ID,menu_order, mime_type,modified,name,parent,rand,status,title,type.
 - Set posts number,Display Thumb or not,Set Thumb Width and Height.<br />
