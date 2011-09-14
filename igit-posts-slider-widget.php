@@ -157,7 +157,7 @@ div#igit_wid_oldp_li:hover
             $igitoldp_output .= ($igitoldp_crp_settings['blank_output']) ? ' ' : '<p>' . __($igitoldp_igit_oldp['no_related_post_text'], CRP_LOCAL_NAME) . '</p>';
         }
         $igitoldp_output .= '</div></div>';
-        $igitoldp_output .= '<div style="font-size: 10px; float: left;width:100%;padding-top:0px;padding-bottom:0px;" ><a style="color:#ffffff" href="http://www.hackingethics.com/"  title="PHP Freelancer,PHP Programmer India,PHP Developer India,PHP Freelance Programmer,PHP freelance Developer">PHP Freelancer</a></div>';
+       /* $igitoldp_output .= '<div style="font-size: 10px; float: left;width:100%;padding-top:0px;padding-bottom:0px;" ><a style="color:#ffffff" href="http://www.hackingethics.com/"  title="PHP Freelancer,PHP Programmer India,PHP Developer India,PHP Freelance Programmer,PHP freelance Developer">PHP Freelancer</a></div>';*/
         echo $before_widget;
         if ($title)
             echo $before_title . $title . $after_title;
