@@ -5,7 +5,7 @@ Plugin link: http://www.hackingethics.com/blog/wordpress-plugins/igit-posts-slid
 Tags: Posts,Post by category,Post slider, Show post slider, Slider widget for posts
 Requires at least: 2.3
 Tested up to: 3.0.5
-Stable tag: 1.2
+Stable tag: 1.3
 
 
 == Description ==
@@ -61,6 +61,9 @@ Installation process is a easy 4 step procedure.<br />
 
 
 == Changelog ==
+= 1.3 =
+- Latest Timthumb 2.8.10 Used.
+
 = 1.2 =
 - TimThumb File Updated. Timthumb Vulnerability removed.
 
