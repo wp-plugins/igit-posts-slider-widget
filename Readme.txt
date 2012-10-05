@@ -18,17 +18,9 @@ Stable tag: 1.4
 
 License: GNU General Public License (GPL), v3 (or newer)
 
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html 
 
-Tags:Related posts, related post with images
-
-Copyright (c) 2010 - 2012 Ankur Gandhi. All rights reserved.
-
- 
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Widget Plugin allows you to embed posts into your sidebar category, tags. Also you can show latest posts,old posts and posts by any order you want in this slider wherver your theme supoorts widgets.
 
 
 
