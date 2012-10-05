@@ -27,16 +27,7 @@ Widget Plugin allows you to embed posts into your sidebar category, tags. Also y
 
 
 == Description ==
-
-<br />
-
-                  [Plugin Home Page](http://www.hackingethics.com/blog/wordpress-plugins/igit-posts-slider-widget/) | 
-
-[Author Site](http://www.hackingethics.com/) | 
-
-[Support](http://www.hackingethics.com/blog/wordpress-plugins/igit-posts-slider-widget/)| 
-
-[Hire Me](http://www.hackingethics.com/blog/contact-me/)
+[Plugin Home Page](http://www.hackingethics.com/blog/wordpress-plugins/igit-posts-slider-widget/) | [Author Site](http://www.hackingethics.com/) | [Support](http://www.hackingethics.com/blog/wordpress-plugins/igit-posts-slider-widget/)| [Hire Me](http://www.hackingethics.com/blog/contact-me/)
 
 <br />
 
@@ -44,15 +35,7 @@ Widget Plugin allows you to embed posts into your sidebar category, tags. Also y
 
 My Other Plugins :
 
-[IGIT Related Posts Widget](http://www.hackingethics.com/blog/wordpress-plugins/igit-related-posts-widget/) |  
-
-[IGIT Related Posts With Thumb Image After Posts](http://wordpress.org/extend/plugins/igit-related-posts-with-thumb-images-after-posts/) | 
-
-[IGIT Follow Me Button](http://www.hackingethics.com/blog/wordpress-plugins/igit-follow-me-after-post-button-new/) |  
-
-[IGIT Twitter Tweet Button](http://www.hackingethics.com/blog/wordpress-plugins/igit-new-twitter-tweet-share-button-with-counter-wordpress-plugin/) 
-
-
+[IGIT Related Posts Widget](http://www.hackingethics.com/blog/wordpress-plugins/igit-related-posts-widget/) | [IGIT Related Posts With Thumb Image After Posts](http://wordpress.org/extend/plugins/igit-related-posts-with-thumb-images-after-posts/) | [IGIT Follow Me Button](http://www.hackingethics.com/blog/wordpress-plugins/igit-follow-me-after-post-button-new/) | [IGIT Twitter Tweet Button](http://www.hackingethics.com/blog/wordpress-plugins/igit-new-twitter-tweet-share-button-with-counter-wordpress-plugin/) 
 
 - The IGIT Posts Slider Widget Plugin allows you to embed posts into your sidebar category, tags. Also you can show latest posts,old posts and posts by any order you want in this slider wherver your theme supoorts widgets.<br />
 
